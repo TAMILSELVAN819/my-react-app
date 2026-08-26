@@ -12,7 +12,7 @@ An interactive web application built with React and Vite to manage and calculate
 
 * **Frontend:** [React](https://react.dev/)
 * **Build Tool:** [Vite](https://vitejs.dev/)
-* **Styling:** CSS3 / Tailwind CSS *(Update as applicable)*
+* **backend tool:** springboot,mysqlworkbench
 
 ## 📦 Installation & Setup
 
