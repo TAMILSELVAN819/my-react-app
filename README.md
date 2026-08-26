@@ -1,18 +1,24 @@
-# React + Vite
+# TNEB (Tamil Nadu Electricity Board) Portal
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive web application built with React and Vite to manage and calculate TNEB electricity bills.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* **Bill Calculator:** Calculate electricity charges based on unit consumption.
+* **Responsive UI:** Built to work smoothly on mobile, tablet, and desktop devices.
+* **Fast Performance:** Powered by Vite for quick page loading and minimal bundling size.
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+* **Frontend:** [React](https://react.dev/)
+* **Build Tool:** [Vite](https://vitejs.dev/)
+* **Styling:** CSS3 / Tailwind CSS *(Update as applicable)*
 
-Note: This will impact Vite dev & build performances.
+## 📦 Installation & Setup
 
-## Expanding the ESLint configuration
+Follow these steps to run the project locally on your machine:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/TAMILSELVAN819/tneb.git](https://github.com/TAMILSELVAN819/tneb.git)
+   cd tneb
